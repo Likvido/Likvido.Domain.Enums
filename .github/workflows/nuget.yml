@@ -23,4 +23,4 @@ jobs:
         uses: likvido/action-nuget@v1
         with:
           nuget-key: ${{ secrets.NUGET_API_KEY }}
-          project: src/Likvido.Domain.Enums/Likvido.Domain.Enums.csproj
+          project: src/Likvido.Domain.Enums/Likvido.Domain.Enums/Likvido.Domain.Enums.csproj
