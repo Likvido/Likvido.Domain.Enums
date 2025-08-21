@@ -6,6 +6,6 @@
         <RepositoryUrl>https://github.com/Likvido/Likvido.Domain.Enums</RepositoryUrl>
     </PropertyGroup>
 
-    <Import Project="$(ProjectDir)../../version.props" />
+    <Import Project="$(ProjectDir)../version.props" />
 
 </Project>

@@ -5,14 +5,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder", "SolutionFolder", "{05F5B605-F9A2-48E7-8C9C-E31238B7F721}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
-		..\version.props = ..\version.props
-		..\..\.github\dependabot.yml = ..\..\.github\dependabot.yml
-		..\..\.gitignore = ..\..\.gitignore
+		version.props = version.props
+		..\.github\dependabot.yml = ..\.github\dependabot.yml
+		..\.gitignore = ..\.gitignore
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workflows", "Workflows", "{9EC08EC7-E23E-450C-80E6-24F603E1570F}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\.github\workflows\nuget.yml = ..\..\.github\workflows\nuget.yml
+		..\.github\workflows\nuget.yml = ..\.github\workflows\nuget.yml
 	EndProjectSection
 EndProject
 Global
